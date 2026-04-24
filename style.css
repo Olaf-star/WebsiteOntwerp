@@ -1,0 +1,62 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0f57f1;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+ 
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+h1{
+  color: blue;
+}
+.dog{
+  width: 200px;
+ position: relative;
+ float: right;
+}
+.dog2{
+  width: 500px;
+  position: relative;
+  float: right;
+}
+.botz{
+  width: 500px;
+  position: relative;
+  float: right;
+}
+.logo{
+   background-color: rgb(16, 247, 151);
+  font-size: 20px;
+  float: right;
+}
+
+table, th, td {
+  border:1px solid black;
+  
+}
