@@ -1,3 +1,6 @@
+body{
+  background-color: beige;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -59,4 +62,7 @@ h1{
 table, th, td {
   border:1px solid black;
   
+}
+p{
+  font-size: 17px;
 }
